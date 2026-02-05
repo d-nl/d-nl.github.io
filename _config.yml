@@ -10,6 +10,8 @@
 locale                   : "en-US"
 #site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 remote_theme             : jekyll/minima # theme: minima
+minima:
+  skin: auto # Or dark
 title                    : "Nathan's Page"
 title_separator          : "-"
 name                     : &name "Nathan L"

@@ -9,17 +9,19 @@ redirect_from:
 
 I'm a Cybersecurity graduate from Penn State!
 
-This is my website, which serves as a portfolio for my personal and academic projects. They are mostly IT and Cybersecurity-related homelabs. If you'd like to see them, please visit the "Projects" section in the top navigation bar.
+This is my website, which serves as a portfolio for my personal and academic projects. 
+
+They are mostly IT and Cybersecurity-related homelabs. If you'd like to see them, please visit the "Projects" section in the top navigation bar.
 
 I'm currently searching for an opportunity to improve my technical skills with! If you'd like to read up on my experience, please see down below.
 
 # Experience
 
-## Past Positions 
+## Professional Experience 
 
 My most relevant and recent IT experience was at the ITS department at Penn State Lehigh Valley. 
 
-As an IT User Support Specialist, I was responsible for troubleshooting and providing support to staff, students, and events for hardware, software, printers, and audio-visual equipment, including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the ServiceNow ticketing system and documentation.
+As an **IT User Support Specialist**, I was responsible for troubleshooting and providing support to staff, students, and events for hardware, software, printers, and audio-visual equipment, including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the **ServiceNow** ticketing system and documentation.
 
 I was responsible for projects including ethernet recabling in data closets, Microsoft 365 phone installation (Telephony), asset inventory management, manual computer updates and hardware replacement. 
 

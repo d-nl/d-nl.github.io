@@ -21,7 +21,7 @@ I'm currently searching for an opportunity to improve my technical skills with! 
 
 My most relevant and recent IT experience was at the ITS department at Penn State Lehigh Valley. 
 
-As an **IT User Support Specialist**, I was responsible for troubleshooting and providing support to staff, students, and events for hardware, software, printers, and audio-visual equipment, including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the **ServiceNow** ticketing system and documentation.
+As an **IT User Support Specialist**, I was responsible for troubleshooting and providing support for hardware, software, printers, and audio-visual equipment including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the **ServiceNow** ticketing system.
 
 I was responsible for projects including ethernet recabling in data closets, Microsoft 365 phone installation (Telephony), asset inventory management, manual computer updates and hardware replacement. 
 

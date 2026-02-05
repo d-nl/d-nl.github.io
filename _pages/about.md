@@ -25,7 +25,7 @@ As an **IT User Support Specialist**, I was responsible for troubleshooting and 
 
 I was responsible for projects including ethernet recabling in data closets, Microsoft 365 phone installation (Telephony), asset inventory management, manual computer updates and hardware replacement. 
 
-Beyond that, I have had years of experience in customer service and retail roles in both Fine Wine & Good Spirits stores and BJ's Wholesale Club.
+Beyond that, I have had years of experience in customer service and retail roles in both Fine Wine & Good Spirits stores and BJ's Wholesale Club as a clerk and cashier respectively.
 
 ## Certifications
 

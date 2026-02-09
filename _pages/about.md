@@ -22,9 +22,9 @@ I'm currently searching for an opportunity to improve my technical skills with! 
 
 My most relevant and recent IT experience was at the ITS department at Penn State Lehigh Valley.
 
-As an **IT User Support Specialist**, I was responsible for troubleshooting and providing support for hardware, software, printers, and audio-visual equipment including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the **ServiceNow** ticketing system.
+As an **IT User Support Specialist**, I was responsible for troubleshooting and providing support for hardware, software, printers, audio-visual equipment including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the **ServiceNow** ticketing system.
 
-I was responsible for projects including ethernet recabling in data closets, Microsoft 365 phone installation (Telephony), asset inventory management, manual computer updates and hardware replacement. 
+Most prominently, I was responsible for a networking project involving ethernet recabling over 7 data closets for the campus. In that project, I constructed and terminated Cat6 ethernet cables, remapped, organized, and documented configurations and switch ports, and tested network connections to ensure consistent uptime and reduce troubleshooting times. I developed a comprehensive network map to streamline maintainance, asset tracking, and future network expansion for the campus.
 
 Beyond that, I have had years of experience in customer service and retail roles in both Fine Wine & Good Spirits stores and BJ's Wholesale Club as a clerk and cashier respectively.
 

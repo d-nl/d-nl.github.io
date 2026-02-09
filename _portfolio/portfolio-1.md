@@ -38,3 +38,4 @@ I then begin to edit the /etc/nginx/sites-available/default file, which is how I
 ![Screenshot of Wireguard gateway](/images/nginx7.png){: width="500px" height=auto}
 
 I can access it from my PC! Pretty simple, but easy to overcomplicate.
+For future use cases of my VPS, I want to install Caddy and potentially use an official domain, which both make it simpler to host multiple applications via Docker.

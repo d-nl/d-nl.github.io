@@ -24,7 +24,7 @@ My most relevant and recent IT experience was at the ITS department at Penn Stat
 
 As an **IT User Support Specialist**, I was responsible for troubleshooting and providing support for hardware, software, printers, audio-visual equipment including Zoom Rooms, projectors, and speakers. I was trained and primarily worked with the **ServiceNow** ticketing system.
 
-Most prominently, I was responsible for a networking project involving ethernet recabling over 7 data closets for the campus. In that project, I constructed and terminated Cat6 ethernet cables, remapped, organized, and documented configurations and switch ports, and tested network connections to ensure consistent uptime and reduce troubleshooting times. I developed a comprehensive network map to streamline maintainance, asset tracking, and future network expansion for the campus.
+Most prominently, I was responsible for a networking project involving ethernet recabling over 7 data closets for the campus. In that project, I constructed and terminated Cat6 ethernet cables, remapped, organized, and documented configurations and switch ports, and tested network connections to ensure consistent uptime and reduce troubleshooting times. 
 
 Beyond that, I have had years of experience in customer service and retail roles in both Fine Wine & Good Spirits stores and BJ's Wholesale Club as a clerk and cashier respectively.
 

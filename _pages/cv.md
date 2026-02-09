@@ -12,7 +12,7 @@ This page contains a list of my eLearning certificates I obtained from Cisco, Sp
 *Cisco*
 
 - Introduction to Cybersecurity
-- Network Support and Security.
+- Network Support and Security
 
 *Splunk*
 

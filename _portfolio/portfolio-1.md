@@ -1,6 +1,6 @@
 ---
 title: "VPS - Installing nginx"
-excerpt: "Write-up on first experiences setting up a VPS as a reverse-proxy. <br/><img src='/images/nginx1.png'>"
+excerpt: "Write-up on first experiences setting up a VPS as a reverse-proxy. <br/><img src='/images/nginx1.png' style="width:500px; height:auto;"> "
 collection: VPS
 ---
 

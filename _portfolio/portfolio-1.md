@@ -8,4 +8,4 @@ Hello! This is one of my first homelabs, focusing on utilizing a VPS I bought as
 
 I mainly utilized nginx and docker to set up these applications, and then serve them at the VPS's IP address with a self-signed certificate. These are mostly for personal use, but I figured the process was interesting to write up.
 
-![Screenshot of me installing nginx on the VPS](/images/nginx1.jpg){: .align-right width="500px" height=auto}
+![Screenshot of me installing nginx on the VPS](/images/nginx1.png){: width="500px" height=auto}

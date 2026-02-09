@@ -1,7 +1,9 @@
 ---
-title: "Spunky Homelab"
-excerpt: "Project where I did so and so. <br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "VPS - Installing nginx"
+excerpt: "Write-up on first experiences setting up a VPS as a reverse-proxy. <br/><img src='/images/nginx1.png'>"
+collection: VPS
 ---
 
-This is my first lab. I did so and so.
+Hello! This is one of my first homelabs, focusing on utilizing a VPS I bought as a reverse-proxy for miscellaneous applications, mainly for note-taking and IP tunnels.
+
+I mainly utilized nginx and docker to set up these applications, and then serve them at the VPS's IP address with a self-signed certificate. These are mostly for personal use, but I figured the process was interesting to write up.

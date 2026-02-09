@@ -37,6 +37,6 @@ In my free time, I try to study for certifications. My most recent was Microsoft
 - CompTIA A+
 - and Penn State's own National Security Agency certificate obtained as apart my completion of courses there as specified and approved by the NSA and Department of Homeland Security! Read more about this [here](https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/national-security-agency-certificate/).
 
-I also hold certifications from various eLearning courses including Cisco's Learning Network, Splunk's free courses, and Palo Alto's Beacon training platform which I obtained during college. To see a list, visit the "eLearning" page at the top navigation bar.
+I also hold various eLearning course certifications from Cybersecurity companies including Cisco's Learning Network, Splunk's free courses, and Palo Alto's Beacon training platform. To see a list, visit the "eLearning" page at the top navigation bar.
 
 If you'd like to see any of my certs, please send me an inquiry at my email on the left-hand profile.
